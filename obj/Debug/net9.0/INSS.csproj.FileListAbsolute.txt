@@ -1,0 +1,14 @@
+C:\Users\allin\OneDrive\Documentos\INSS\bin\Debug\net9.0\INSS.exe
+C:\Users\allin\OneDrive\Documentos\INSS\bin\Debug\net9.0\INSS.deps.json
+C:\Users\allin\OneDrive\Documentos\INSS\bin\Debug\net9.0\INSS.runtimeconfig.json
+C:\Users\allin\OneDrive\Documentos\INSS\bin\Debug\net9.0\INSS.dll
+C:\Users\allin\OneDrive\Documentos\INSS\bin\Debug\net9.0\INSS.pdb
+C:\Users\allin\OneDrive\Documentos\INSS\obj\Debug\net9.0\INSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allin\OneDrive\Documentos\INSS\obj\Debug\net9.0\INSS.AssemblyInfoInputs.cache
+C:\Users\allin\OneDrive\Documentos\INSS\obj\Debug\net9.0\INSS.AssemblyInfo.cs
+C:\Users\allin\OneDrive\Documentos\INSS\obj\Debug\net9.0\INSS.csproj.CoreCompileInputs.cache
+C:\Users\allin\OneDrive\Documentos\INSS\obj\Debug\net9.0\INSS.dll
+C:\Users\allin\OneDrive\Documentos\INSS\obj\Debug\net9.0\refint\INSS.dll
+C:\Users\allin\OneDrive\Documentos\INSS\obj\Debug\net9.0\INSS.pdb
+C:\Users\allin\OneDrive\Documentos\INSS\obj\Debug\net9.0\INSS.genruntimeconfig.cache
+C:\Users\allin\OneDrive\Documentos\INSS\obj\Debug\net9.0\ref\INSS.dll
